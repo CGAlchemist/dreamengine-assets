@@ -1,0 +1,216 @@
+{
+  "schema": 1,
+  "generated_at": "2026-06-23T00:18:24Z",
+  "packs": [
+    {
+      "name": "Kenney Prototype Tools",
+      "author": "Kenney",
+      "category": "3D",
+      "license": "CC0",
+      "size_mb": 0.3,
+      "summary": "Prototyping textures + blockout tools - perfect for greyboxing a level.",
+      "thumbnail": "https://raw.githubusercontent.com/GeroVeni/kenney_prototype_tools/main/addons/kenney_prototype_tools/textures/dark/texture_01.png",
+      "download_url": "https://github.com/GeroVeni/kenney_prototype_tools/archive/refs/heads/main.zip"
+    },
+    {
+      "name": "Kenney Hexagon Kit",
+      "author": "Kenney",
+      "category": "3D",
+      "license": "CC0",
+      "size_mb": 0.5,
+      "summary": "Low-poly hexagon terrain tiles for strategy / board games.",
+      "thumbnail": "https://raw.githubusercontent.com/utgarda/kenney-hexagon/master/Spritesheet/complete.png",
+      "download_url": "https://github.com/utgarda/kenney-hexagon/archive/refs/heads/master.zip"
+    },
+    {
+      "name": "Kenney + Quaternius Free Pack",
+      "author": "Kenney / Quaternius",
+      "category": "3D",
+      "license": "CC0",
+      "size_mb": 32,
+      "summary": "A large mixed bundle of free 2D and 3D assets - a great starting kit.",
+      "thumbnail": "https://raw.githubusercontent.com/beep2bleep/FreeAssetsByKenneyNLandQuaternius/master/FreeModels%20by%20Quaternius%5BPatreon%5D/Characters%20and%20Animals/Animal%20Pack%20Vol.2%20-%20Jul%202017/Preview.png",
+      "download_url": "https://github.com/beep2bleep/FreeAssetsByKenneyNLandQuaternius/archive/refs/heads/master.zip"
+    },
+    {
+      "name": "Kenney Asset Pack 1",
+      "author": "Kenney",
+      "category": "2D",
+      "license": "CC0",
+      "size_mb": 23,
+      "summary": "The classic complete Kenney 2D collection (sprites, UI, tiles).",
+      "thumbnail": "https://raw.githubusercontent.com/iwenzhou/kenney/master/Art%20(5190%20files)/Archive%20(500%20assets)/Platformer%20assets%20pixel%20(retired,%20380%20assets)/spritesheet.png",
+      "download_url": "https://github.com/iwenzhou/kenney/archive/refs/heads/master.zip"
+    },
+    {
+      "name": "Kenney Monochrome Pirates",
+      "author": "Kenney",
+      "category": "2D",
+      "license": "CC0",
+      "size_mb": 0.4,
+      "summary": "Monochrome 16x16 pixel-art tileset with a pirate theme.",
+      "thumbnail": "https://kenney.nl/media/pages/assets/monochrome-pirates/00fdf33e09-1701252750/preview.png",
+      "download_url": "https://kenney.nl/media/pages/assets/monochrome-pirates/1b6c3591dd-1701252760/kenney_monochrome-pirates.zip"
+    },
+    {
+      "name": "Kenney Isometric Miniature Prototype",
+      "author": "Kenney",
+      "category": "2D",
+      "license": "CC0",
+      "size_mb": 3.5,
+      "summary": "Isometric prototype miniatures - great for blockout / board-game scenes.",
+      "thumbnail": "https://kenney.nl/media/pages/assets/isometric-miniature-prototype/8614213a64-1674932120/preview.png",
+      "download_url": "https://kenney.nl/media/pages/assets/isometric-miniature-prototype/8c46fe34a0-1674932174/kenney_isometric-miniature-prototype.zip"
+    },
+    {
+      "name": "Kenney Pixel Platformer: Industrial",
+      "author": "Kenney",
+      "category": "2D",
+      "license": "CC0",
+      "size_mb": 0.2,
+      "summary": "Industrial-themed tiles + sprites expanding the Pixel Platformer set.",
+      "thumbnail": "https://kenney.nl/media/pages/assets/pixel-platformer-industrial-expansion/02feb64053-1668793434/preview.png",
+      "download_url": "https://kenney.nl/media/pages/assets/pixel-platformer-industrial-expansion/f95a0189cd-1668793443/kenney_pixel-platformer-industrial-expansion.zip"
+    },
+    {
+      "name": "Quaternius Cyberpunk Game Kit",
+      "author": "Quaternius",
+      "category": "3D",
+      "license": "CC0",
+      "size_mb": 11,
+      "summary": "71 low-poly cyberpunk models - characters, enemies, platforms and props (glTF).",
+      "thumbnail": "https://github.com/CGAlchemist/dreamengine-assets/releases/download/packs-v1/cyberpunk-game-kit.jpg",
+      "download_url": "https://github.com/CGAlchemist/dreamengine-assets/releases/download/packs-v1/cyberpunk-game-kit.zip"
+    },
+    {
+      "name": "Quaternius Medieval Village Megakit",
+      "author": "Quaternius",
+      "category": "3D",
+      "license": "CC0",
+      "size_mb": 155,
+      "summary": "352 medieval village models - buildings, props and nature (glTF). Big pack!",
+      "thumbnail": "https://github.com/CGAlchemist/dreamengine-assets/releases/download/packs-v1/medieval-village-megakit.jpg",
+      "download_url": "https://github.com/CGAlchemist/dreamengine-assets/releases/download/packs-v1/medieval-village-megakit.zip"
+    },
+    {
+      "name": "Quaternius Universal Base Characters",
+      "author": "Quaternius",
+      "category": "3D",
+      "license": "CC0",
+      "size_mb": 126,
+      "summary": "Customizable base character meshes + hairstyles, Godot-ready (glTF).",
+      "thumbnail": "https://github.com/CGAlchemist/dreamengine-assets/releases/download/packs-v1/universal-base-characters.png",
+      "download_url": "https://github.com/CGAlchemist/dreamengine-assets/releases/download/packs-v1/universal-base-characters.zip"
+    },
+    {
+      "name": "Quaternius Universal Animation Library",
+      "author": "Quaternius",
+      "category": "3D",
+      "license": "CC0",
+      "size_mb": 6,
+      "summary": "A library of character animations (.glb) - pairs with the Base Characters.",
+      "thumbnail": "https://github.com/CGAlchemist/dreamengine-assets/releases/download/packs-v1/universal-animation-library.jpg",
+      "download_url": "https://github.com/CGAlchemist/dreamengine-assets/releases/download/packs-v1/universal-animation-library.zip"
+    },
+    {
+      "name": "Kenney UI Pack",
+      "author": "Kenney",
+      "category": "UI",
+      "license": "CC0",
+      "size_mb": 3.0,
+      "summary": "Hundreds of clean UI elements - buttons, panels, sliders, checkboxes.",
+      "thumbnail": "https://kenney.nl/media/pages/assets/ui-pack/ab9e396e4d-1718203978/preview.png",
+      "download_url": "https://kenney.nl/media/pages/assets/ui-pack/f651646eab-1718203990/kenney_ui-pack.zip"
+    },
+    {
+      "name": "Kenney Game Icons",
+      "author": "Kenney",
+      "category": "UI",
+      "license": "CC0",
+      "size_mb": 2.0,
+      "summary": "Hundreds of game UI icons - hearts, coins, gamepad buttons and more.",
+      "thumbnail": "https://kenney.nl/media/pages/assets/game-icons/349f36a54d-1677661575/preview.png",
+      "download_url": "https://kenney.nl/media/pages/assets/game-icons/1ebf9c14af-1677661579/kenney_game-icons.zip"
+    },
+    {
+      "name": "Kenney Pixel Platformer",
+      "author": "Kenney",
+      "category": "2D",
+      "license": "CC0",
+      "size_mb": 1.0,
+      "summary": "Charming pixel-art platformer tileset, characters and items.",
+      "thumbnail": "https://kenney.nl/media/pages/assets/pixel-platformer/9354b2aa6b-1696667871/preview.png",
+      "download_url": "https://kenney.nl/media/pages/assets/pixel-platformer/33bb4921eb-1696667883/kenney_pixel-platformer.zip"
+    },
+    {
+      "name": "Kenney Pixel Shmup",
+      "author": "Kenney",
+      "category": "2D",
+      "license": "CC0",
+      "size_mb": 1.0,
+      "summary": "Top-down pixel-art space shooter sprites - ships, bullets, enemies.",
+      "thumbnail": "https://kenney.nl/media/pages/assets/pixel-shmup/9d1158f9f9-1677495741/preview.png",
+      "download_url": "https://kenney.nl/media/pages/assets/pixel-shmup/640246b9cc-1677495782/kenney_pixel-shmup.zip"
+    },
+    {
+      "name": "Kenney 1-Bit Pack",
+      "author": "Kenney",
+      "category": "2D",
+      "license": "CC0",
+      "size_mb": 1.0,
+      "summary": "Huge 1-bit (2-colour) tileset - roguelike/RPG sprites, tiles, items.",
+      "thumbnail": "https://kenney.nl/media/pages/assets/1-bit-pack/b6c4007d67-1677578505/preview.png",
+      "download_url": "https://kenney.nl/media/pages/assets/1-bit-pack/aa867a1f37-1677578516/kenney_1-bit-pack.zip"
+    },
+    {
+      "name": "Kenney Tiny Dungeon",
+      "author": "Kenney",
+      "category": "2D",
+      "license": "CC0",
+      "size_mb": 0.5,
+      "summary": "Tiny 16x16 dungeon tileset - heroes, monsters, tiles and props.",
+      "thumbnail": "https://kenney.nl/media/pages/assets/tiny-dungeon/3bb70bd831-1674742409/preview.png",
+      "download_url": "https://kenney.nl/media/pages/assets/tiny-dungeon/f8422efb44-1674742415/kenney_tiny-dungeon.zip"
+    },
+    {
+      "name": "Kenney Nature Kit",
+      "author": "Kenney",
+      "category": "3D",
+      "license": "CC0",
+      "size_mb": 5.0,
+      "summary": "Low-poly 3D nature models - trees, rocks, plants and terrain.",
+      "thumbnail": "https://kenney.nl/media/pages/assets/nature-kit/2d81fc716e-1677698893/preview.png",
+      "download_url": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip"
+    },
+    {
+      "name": "Kenney City Kit (Commercial)",
+      "author": "Kenney",
+      "category": "3D",
+      "license": "CC0",
+      "size_mb": 8.0,
+      "summary": "Low-poly 3D city buildings and props for town/city scenes.",
+      "thumbnail": "https://kenney.nl/media/pages/assets/city-kit-commercial/f9afc81822-1747481468/preview.png",
+      "download_url": "https://kenney.nl/media/pages/assets/city-kit-commercial/a742d900eb-1753115042/kenney_city-kit-commercial_2.1.zip"
+    },
+    {
+      "name": "Kenney Interface Sounds",
+      "author": "Kenney",
+      "category": "Audio",
+      "license": "CC0",
+      "size_mb": 2.0,
+      "summary": "100 UI sound effects - clicks, beeps, confirmations, errors.",
+      "thumbnail": "https://kenney.nl/media/pages/assets/interface-sounds/428fc5f14c-1677589445/preview_interface.png",
+      "download_url": "https://kenney.nl/media/pages/assets/interface-sounds/fa43c1dd4d-1677589452/kenney_interface-sounds.zip"
+    },
+    {
+      "name": "Kenney RPG Audio",
+      "author": "Kenney",
+      "category": "Audio",
+      "license": "CC0",
+      "size_mb": 5.0,
+      "summary": "RPG sound effects - swords, magic, footsteps, doors and coins.",
+      "thumbnail": "https://kenney.nl/media/pages/assets/rpg-audio/ce8569f2f8-1677590326/preview-4.png",
+      "download_url": "https://kenney.nl/media/pages/assets/rpg-audio/8e99002d76-1677590336/kenney_rpg-audio.zip"
+    }
+  ]
+}
