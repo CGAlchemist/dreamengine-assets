@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-06-23T00:18:24Z",
+  "generated_at": "2026-06-23T05:38:53Z",
   "packs": [
     {
       "name": "Kenney Prototype Tools",
@@ -211,6 +211,506 @@
       "summary": "RPG sound effects - swords, magic, footsteps, doors and coins.",
       "thumbnail": "https://kenney.nl/media/pages/assets/rpg-audio/ce8569f2f8-1677590326/preview-4.png",
       "download_url": "https://kenney.nl/media/pages/assets/rpg-audio/8e99002d76-1677590336/kenney_rpg-audio.zip"
+    },
+    {
+      "name": "Tree",
+      "author": "Marc Sol\u00e0 (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC-BY 3.0",
+      "size_mb": 0.2,
+      "summary": "Low-poly 3D model. tree diagram, conifer, shrub",
+      "thumbnail": "https://static.poly.pizza/e1349d8c-4037-4245-bdc2-3b79c417828f.webp",
+      "download_url": "https://static.poly.pizza/e1349d8c-4037-4245-bdc2-3b79c417828f.glb"
+    },
+    {
+      "name": "Trees",
+      "author": "Quaternius (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC0 1.0",
+      "size_mb": 0.2,
+      "summary": "Low-poly 3D model. Plant, Green",
+      "thumbnail": "https://static.poly.pizza/53a83125-e16a-4024-b8f6-1e72679c7ddf.webp",
+      "download_url": "https://static.poly.pizza/53a83125-e16a-4024-b8f6-1e72679c7ddf.glb"
+    },
+    {
+      "name": "Pine Trees",
+      "author": "Quaternius (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC0 1.0",
+      "size_mb": 0.2,
+      "summary": "Low-poly 3D model. Plant, Tree, Leaf, Conifer",
+      "thumbnail": "https://static.poly.pizza/1d499f8b-5a1b-4966-9a35-10c0d3841e91.webp",
+      "download_url": "https://static.poly.pizza/1d499f8b-5a1b-4966-9a35-10c0d3841e91.glb"
+    },
+    {
+      "name": "Rocks",
+      "author": "Quaternius (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC0 1.0",
+      "size_mb": 0.2,
+      "summary": "Low-poly 3D model. Nature, Rock",
+      "thumbnail": "https://static.poly.pizza/c6f65def-08c5-4c81-b17f-f37b171ad911.webp",
+      "download_url": "https://static.poly.pizza/c6f65def-08c5-4c81-b17f-f37b171ad911.glb"
+    },
+    {
+      "name": "Rock",
+      "author": "Danni Bittman (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC-BY 3.0",
+      "size_mb": 0.2,
+      "summary": "Low-poly 3D model. stone",
+      "thumbnail": "https://static.poly.pizza/500cdd0f-bfdd-4144-a45d-d5d02c4e569d.webp",
+      "download_url": "https://static.poly.pizza/500cdd0f-bfdd-4144-a45d-d5d02c4e569d.glb"
+    },
+    {
+      "name": "Rock",
+      "author": "Quaternius (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC0 1.0",
+      "size_mb": 0.2,
+      "summary": "Low-poly 3D model. Nature, Outdoors, Rock",
+      "thumbnail": "https://static.poly.pizza/87d3dfd2-de47-4b03-b9f1-4c84c2a605b0.webp",
+      "download_url": "https://static.poly.pizza/87d3dfd2-de47-4b03-b9f1-4c84c2a605b0.glb"
+    },
+    {
+      "name": "Farm house",
+      "author": "Poly by Google (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC-BY 3.0",
+      "size_mb": 0.2,
+      "summary": "Low-poly 3D model. pen, sty, home",
+      "thumbnail": "https://static.poly.pizza/fedcf063-38c2-4ece-b064-f29960dd2193.webp",
+      "download_url": "https://static.poly.pizza/fedcf063-38c2-4ece-b064-f29960dd2193.glb"
+    },
+    {
+      "name": "House interior",
+      "author": "Gabriele Romagnoli (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC-BY 3.0",
+      "size_mb": 0.4,
+      "summary": "Low-poly 3D model. house, home, building, rooms",
+      "thumbnail": "https://static.poly.pizza/61fe3bc9-00ad-4d15-93db-fbd80a44d260.webp",
+      "download_url": "https://static.poly.pizza/61fe3bc9-00ad-4d15-93db-fbd80a44d260.glb"
+    },
+    {
+      "name": "House",
+      "author": "Poly by Google (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC-BY 3.0",
+      "size_mb": 0.2,
+      "summary": "#home #abode #building #dwelling",
+      "thumbnail": "https://static.poly.pizza/bd8c9cad-072d-46bc-998f-1d31c3d85ce2.webp",
+      "download_url": "https://static.poly.pizza/bd8c9cad-072d-46bc-998f-1d31c3d85ce2.glb"
+    },
+    {
+      "name": "CAR Model",
+      "author": "Ignition Labs (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC-BY 3.0",
+      "size_mb": 0.4,
+      "summary": "Low-poly 3D model. lamborghini, sports car, racing",
+      "thumbnail": "https://static.poly.pizza/f8c6bcd5-92a2-4f88-b821-64935a00216f.webp",
+      "download_url": "https://static.poly.pizza/f8c6bcd5-92a2-4f88-b821-64935a00216f.glb"
+    },
+    {
+      "name": "Car",
+      "author": "Poly by Google (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC-BY 3.0",
+      "size_mb": 0.2,
+      "summary": "#vehicle #automobile #driving",
+      "thumbnail": "https://static.poly.pizza/0455317d-26c3-40cd-8a7d-de547ffdb9df.webp",
+      "download_url": "https://static.poly.pizza/0455317d-26c3-40cd-8a7d-de547ffdb9df.glb"
+    },
+    {
+      "name": "Red Car",
+      "author": "J-Toastie (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC-BY 3.0",
+      "size_mb": 0.2,
+      "summary": "A low poly red car, It gets quite bumpy whilst driving...",
+      "thumbnail": "https://static.poly.pizza/a061b874-2c4d-4f08-8c6f-eb24bd8dfcb5.webp",
+      "download_url": "https://static.poly.pizza/a061b874-2c4d-4f08-8c6f-eb24bd8dfcb5.glb"
+    },
+    {
+      "name": "Barrel",
+      "author": "Quaternius (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC0 1.0",
+      "size_mb": 0.2,
+      "summary": "Low-poly 3D model. Barrel, Keg",
+      "thumbnail": "https://static.poly.pizza/6d3e8847-bda4-4d6c-8004-7b03cf848b13.webp",
+      "download_url": "https://static.poly.pizza/6d3e8847-bda4-4d6c-8004-7b03cf848b13.glb"
+    },
+    {
+      "name": "Barrel",
+      "author": "Quaternius (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC0 1.0",
+      "size_mb": 0.2,
+      "summary": "Low-poly 3D model. Barrel, Keg",
+      "thumbnail": "https://static.poly.pizza/df9e4b83-758a-4fc7-b311-70fc949ed7ff.webp",
+      "download_url": "https://static.poly.pizza/df9e4b83-758a-4fc7-b311-70fc949ed7ff.glb"
+    },
+    {
+      "name": "Exploding Barrel",
+      "author": "Quaternius (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC0 1.0",
+      "size_mb": 0.2,
+      "summary": "Low-poly 3D model. Cup",
+      "thumbnail": "https://static.poly.pizza/dbb58868-50d4-4ef0-945a-12b07222fb69.webp",
+      "download_url": "https://static.poly.pizza/dbb58868-50d4-4ef0-945a-12b07222fb69.glb"
+    },
+    {
+      "name": "Chest",
+      "author": "Quaternius (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC0 1.0",
+      "size_mb": 0.2,
+      "summary": "Low-poly 3D model. Box, Treasure",
+      "thumbnail": "https://static.poly.pizza/803af4ae-433f-4b05-b1f1-c6a2da02d768.webp",
+      "download_url": "https://static.poly.pizza/803af4ae-433f-4b05-b1f1-c6a2da02d768.glb"
+    },
+    {
+      "name": "Chest",
+      "author": "Quaternius (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC0 1.0",
+      "size_mb": 0.2,
+      "summary": "Low-poly 3D model. Treasure",
+      "thumbnail": "https://static.poly.pizza/b4373a5a-463e-43e1-aece-7dda31788c0d.webp",
+      "download_url": "https://static.poly.pizza/b4373a5a-463e-43e1-aece-7dda31788c0d.glb"
+    },
+    {
+      "name": "Chest",
+      "author": "Quaternius (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC0 1.0",
+      "size_mb": 0.4,
+      "summary": "Low-poly 3D model. Treasure",
+      "thumbnail": "https://static.poly.pizza/0bf6e981-5d81-446b-aeda-1908bc8d7990.webp",
+      "download_url": "https://static.poly.pizza/0bf6e981-5d81-446b-aeda-1908bc8d7990.glb"
+    },
+    {
+      "name": "Sword",
+      "author": "Quaternius (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC0 1.0",
+      "size_mb": 0.2,
+      "summary": "Low-poly 3D model. Weapon, Weaponry, Sword, Blade",
+      "thumbnail": "https://static.poly.pizza/65837148-8c3c-42d5-9ce7-c55f9295cc7e.webp",
+      "download_url": "https://static.poly.pizza/65837148-8c3c-42d5-9ce7-c55f9295cc7e.glb"
+    },
+    {
+      "name": "Short Sword",
+      "author": "joney_lol (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC-BY 3.0",
+      "size_mb": 0.2,
+      "summary": "Low-poly 3D model. Sword, Blade, Weapon",
+      "thumbnail": "https://static.poly.pizza/fd08c502-c629-4259-acd4-8243bee2ceb3.webp",
+      "download_url": "https://static.poly.pizza/fd08c502-c629-4259-acd4-8243bee2ceb3.glb"
+    },
+    {
+      "name": "Katana Sword",
+      "author": "Nick Ladd (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC-BY 3.0",
+      "size_mb": 0.2,
+      "summary": "Japanese sword used by Samurai Warriors.",
+      "thumbnail": "https://static.poly.pizza/29e0c50d-d264-46a5-b933-84ebd2f13be1.webp",
+      "download_url": "https://static.poly.pizza/29e0c50d-d264-46a5-b933-84ebd2f13be1.glb"
+    },
+    {
+      "name": "Character Base",
+      "author": "madtrollstudio (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC-BY 3.0",
+      "size_mb": 0.2,
+      "summary": "Low-poly 3D model. Human, Figure, Basic",
+      "thumbnail": "https://static.poly.pizza/6475fb6e-e560-4b27-afc2-042896b70137.webp",
+      "download_url": "https://static.poly.pizza/6475fb6e-e560-4b27-afc2-042896b70137.glb"
+    },
+    {
+      "name": "Adventurer",
+      "author": "Quaternius (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC0 1.0",
+      "size_mb": 0.2,
+      "summary": "Low-poly 3D model. Person, Human, Man, Character",
+      "thumbnail": "https://static.poly.pizza/bbe369ee-a686-42c7-adad-14356f5f2f15.webp",
+      "download_url": "https://static.poly.pizza/bbe369ee-a686-42c7-adad-14356f5f2f15.glb"
+    },
+    {
+      "name": "Character Animated",
+      "author": "Quaternius (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC0 1.0",
+      "size_mb": 0.2,
+      "summary": "Low-poly 3D model. Hero, RPG, human, man",
+      "thumbnail": "https://static.poly.pizza/1a8a9d55-9aa9-43c4-a031-d926e251d80a.webp",
+      "download_url": "https://static.poly.pizza/1a8a9d55-9aa9-43c4-a031-d926e251d80a.glb"
+    },
+    {
+      "name": "Zombie",
+      "author": "bachosoftdesign (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC-BY 3.0",
+      "size_mb": 0.2,
+      "summary": "Mixamo compatible zombie model :)",
+      "thumbnail": "https://static.poly.pizza/8181fd4f-facb-4b10-83c3-43852fd69376.webp",
+      "download_url": "https://static.poly.pizza/8181fd4f-facb-4b10-83c3-43852fd69376.glb"
+    },
+    {
+      "name": "Slime Enemy",
+      "author": "Quaternius (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC0 1.0",
+      "size_mb": 0.2,
+      "summary": "Low-poly 3D model. Monster, Creature, Green",
+      "thumbnail": "https://static.poly.pizza/93e6c3e3-75f8-441f-86d0-b223f7829005.webp",
+      "download_url": "https://static.poly.pizza/93e6c3e3-75f8-441f-86d0-b223f7829005.glb"
+    },
+    {
+      "name": "Robot Enemy",
+      "author": "Quaternius (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC0 1.0",
+      "size_mb": 0.2,
+      "summary": "Low-poly 3D model. NPC, Enemy, Robot",
+      "thumbnail": "https://static.poly.pizza/9c45ab2b-c46a-4319-bc2a-88d6dbbc8e42.webp",
+      "download_url": "https://static.poly.pizza/9c45ab2b-c46a-4319-bc2a-88d6dbbc8e42.glb"
+    },
+    {
+      "name": "Animated Robot",
+      "author": "Quaternius (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC0 1.0",
+      "size_mb": 0.2,
+      "summary": "Low-poly 3D model. Machine, AI, NPC, robot",
+      "thumbnail": "https://static.poly.pizza/7d95dbce-8c73-489b-8298-f430b1f0dbdf.webp",
+      "download_url": "https://static.poly.pizza/7d95dbce-8c73-489b-8298-f430b1f0dbdf.glb"
+    },
+    {
+      "name": "Carl",
+      "author": "Matt Connors (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC-BY 3.0",
+      "size_mb": 0.3,
+      "summary": "I needed to post him on his own to try to animate.",
+      "thumbnail": "https://static.poly.pizza/673a412b-4318-439a-ae37-a89f4fa7a282.webp",
+      "download_url": "https://static.poly.pizza/673a412b-4318-439a-ae37-a89f4fa7a282.glb"
+    },
+    {
+      "name": "deep space robot",
+      "author": "Tom De Wispelaere (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC-BY 3.0",
+      "size_mb": 1.0,
+      "summary": "Low-poly 3D model. abyss, probe, chasm",
+      "thumbnail": "https://static.poly.pizza/ba17f0b5-4126-460f-bdb6-15629ab8e279.webp",
+      "download_url": "https://static.poly.pizza/ba17f0b5-4126-460f-bdb6-15629ab8e279.glb"
+    },
+    {
+      "name": "Elephant",
+      "author": "Poly by Google (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC-BY 3.0",
+      "size_mb": 0.2,
+      "summary": "Low-poly 3D model. animal, bull, circus",
+      "thumbnail": "https://static.poly.pizza/b8ca84f2-02b2-4c84-92c0-b5f8b0eee90e.webp",
+      "download_url": "https://static.poly.pizza/b8ca84f2-02b2-4c84-92c0-b5f8b0eee90e.glb"
+    },
+    {
+      "name": "Cow",
+      "author": "Quaternius (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC0 1.0",
+      "size_mb": 0.2,
+      "summary": "Low-poly 3D model. Cow, Cattle, Animal",
+      "thumbnail": "https://static.poly.pizza/382b3d4a-a7c9-4c03-9858-3df630d90047.webp",
+      "download_url": "https://static.poly.pizza/382b3d4a-a7c9-4c03-9858-3df630d90047.glb"
+    },
+    {
+      "name": "Wolf",
+      "author": "Quaternius (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC0 1.0",
+      "size_mb": 0.2,
+      "summary": "Low-poly 3D model. Wolf, Animal, Coyote, Dog",
+      "thumbnail": "https://static.poly.pizza/f1d12388-e39b-4157-b32a-646a1d089fc4.webp",
+      "download_url": "https://static.poly.pizza/f1d12388-e39b-4157-b32a-646a1d089fc4.glb"
+    },
+    {
+      "name": "Hamburger",
+      "author": "jeremy (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC-BY 3.0",
+      "size_mb": 0.2,
+      "summary": "#burger #hamburger #cheeseburger #bun #food",
+      "thumbnail": "https://static.poly.pizza/2596c72b-2136-4463-989e-dec5f08267fe.webp",
+      "download_url": "https://static.poly.pizza/2596c72b-2136-4463-989e-dec5f08267fe.glb"
+    },
+    {
+      "name": "Pizza",
+      "author": "Quaternius (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC0 1.0",
+      "size_mb": 0.2,
+      "summary": "Low-poly 3D model. pizza, food",
+      "thumbnail": "https://static.poly.pizza/39c42afe-d7d8-42d1-870f-175a479bde0c.webp",
+      "download_url": "https://static.poly.pizza/39c42afe-d7d8-42d1-870f-175a479bde0c.glb"
+    },
+    {
+      "name": "SUSHI",
+      "author": "Aimi Sekiguchi (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC-BY 3.0",
+      "size_mb": 1.3,
+      "summary": "I live in Japan. I like SUSHI very much!!!",
+      "thumbnail": "https://static.poly.pizza/3869442e-d71a-45c2-b078-3e8c1642db76.webp",
+      "download_url": "https://static.poly.pizza/3869442e-d71a-45c2-b078-3e8c1642db76.glb"
+    },
+    {
+      "name": "Couch Medium",
+      "author": "Quaternius (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC0 1.0",
+      "size_mb": 0.2,
+      "summary": "Low-poly 3D model. Couch, Furniture, Cushion",
+      "thumbnail": "https://static.poly.pizza/92a2404e-10d5-4c6a-a188-18b556474f8f.webp",
+      "download_url": "https://static.poly.pizza/92a2404e-10d5-4c6a-a188-18b556474f8f.glb"
+    },
+    {
+      "name": "Bookcase with Books",
+      "author": "Quaternius (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC0 1.0",
+      "size_mb": 0.2,
+      "summary": "Low-poly 3D model. Furniture, Bookcase, Cupboard, Box",
+      "thumbnail": "https://static.poly.pizza/7d59d0aa-6447-4bbb-afc7-0452e9a34353.webp",
+      "download_url": "https://static.poly.pizza/7d59d0aa-6447-4bbb-afc7-0452e9a34353.glb"
+    },
+    {
+      "name": "Chair",
+      "author": "Poly by Google (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC-BY 3.0",
+      "size_mb": 0.2,
+      "summary": "#rest #seat #furniture",
+      "thumbnail": "https://static.poly.pizza/423381ef-268e-45a6-91b8-273ad071c986.webp",
+      "download_url": "https://static.poly.pizza/423381ef-268e-45a6-91b8-273ad071c986.glb"
+    },
+    {
+      "name": "Spaceship",
+      "author": "Liz Reddington (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC-BY 3.0",
+      "size_mb": 0.2,
+      "summary": "Spaceship by Liz Reddington. Each color is a separate material to allow the user to change the color easily within their game engine if needed. \n\nPortfolio and ",
+      "thumbnail": "https://static.poly.pizza/bf472e51-fa18-4c19-a6c8-5a834e8483a8.webp",
+      "download_url": "https://static.poly.pizza/bf472e51-fa18-4c19-a6c8-5a834e8483a8.glb"
+    },
+    {
+      "name": "Spaceship",
+      "author": "Liz Reddington (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC-BY 3.0",
+      "size_mb": 0.2,
+      "summary": "Spaceship by Liz Reddington. Each color is a separate material to allow the user to change the color easily within their game engine if needed. \n\nPortfolio and ",
+      "thumbnail": "https://static.poly.pizza/4460c224-be92-4a42-90f3-51590eed4ab4.webp",
+      "download_url": "https://static.poly.pizza/4460c224-be92-4a42-90f3-51590eed4ab4.glb"
+    },
+    {
+      "name": "Spaceship",
+      "author": "Quaternius (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC0 1.0",
+      "size_mb": 0.2,
+      "summary": "Low-poly 3D model. Aircraft, Transportation, Vehicle, Airplane",
+      "thumbnail": "https://static.poly.pizza/e8817981-bfc4-448d-822f-5b76a5983675.webp",
+      "download_url": "https://static.poly.pizza/e8817981-bfc4-448d-822f-5b76a5983675.glb"
+    },
+    {
+      "name": "Cube Crate",
+      "author": "Quaternius (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC0 1.0",
+      "size_mb": 0.2,
+      "summary": "Low-poly 3D model. Label, Crate",
+      "thumbnail": "https://static.poly.pizza/9b0c7d9b-344c-48d2-9a49-a59df0f4f838.webp",
+      "download_url": "https://static.poly.pizza/9b0c7d9b-344c-48d2-9a49-a59df0f4f838.glb"
+    },
+    {
+      "name": "Crate",
+      "author": "Quaternius (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC0 1.0",
+      "size_mb": 0.2,
+      "summary": "Low-poly 3D model. box",
+      "thumbnail": "https://static.poly.pizza/720097e2-63ed-4e5f-9b66-eb416942eea0.webp",
+      "download_url": "https://static.poly.pizza/720097e2-63ed-4e5f-9b66-eb416942eea0.glb"
+    },
+    {
+      "name": "Fruit Crate",
+      "author": "BlenderVoyage (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC0 1.0",
+      "size_mb": 0.2,
+      "summary": "Good old crate to carry your apples around.",
+      "thumbnail": "https://static.poly.pizza/a47a49e0-90df-4d75-9ca6-ad00aeeae02f.webp",
+      "download_url": "https://static.poly.pizza/a47a49e0-90df-4d75-9ca6-ad00aeeae02f.glb"
+    },
+    {
+      "name": "Door",
+      "author": "Quaternius (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC0 1.0",
+      "size_mb": 0.2,
+      "summary": "Low-poly 3D model. Door",
+      "thumbnail": "https://static.poly.pizza/ef9c0c29-7571-4599-b9ad-c4f9279557a5.webp",
+      "download_url": "https://static.poly.pizza/ef9c0c29-7571-4599-b9ad-c4f9279557a5.glb"
+    },
+    {
+      "name": "Doorway",
+      "author": "Kenney (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC0 1.0",
+      "size_mb": 0.2,
+      "summary": "Low-poly 3D model. Door",
+      "thumbnail": "https://static.poly.pizza/f8349a23-d921-4903-9b2e-96e64f6c21ad.webp",
+      "download_url": "https://static.poly.pizza/f8349a23-d921-4903-9b2e-96e64f6c21ad.glb"
+    },
+    {
+      "name": "Nice Door",
+      "author": "Wesley Thompson (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC-BY 3.0",
+      "size_mb": 0.2,
+      "summary": "Low-poly 3D model. fast, ned, catch",
+      "thumbnail": "https://static.poly.pizza/3d0ad2c5-5260-41be-a64a-d693c9d4cac9.webp",
+      "download_url": "https://static.poly.pizza/3d0ad2c5-5260-41be-a64a-d693c9d4cac9.glb"
+    },
+    {
+      "name": "Fiddle-leaf Plant",
+      "author": "Poly by Google (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC-BY 3.0",
+      "size_mb": 0.2,
+      "summary": "#plant #pot #leaves #foliage",
+      "thumbnail": "https://static.poly.pizza/2a849bd9-b82d-4e5d-8fab-df03b4017b29.webp",
+      "download_url": "https://static.poly.pizza/2a849bd9-b82d-4e5d-8fab-df03b4017b29.glb"
+    },
+    {
+      "name": "House plant",
+      "author": "Poly by Google (via Poly Pizza)",
+      "category": "3D",
+      "license": "CC-BY 3.0",
+      "size_mb": 0.2,
+      "summary": "Low-poly 3D model. plant",
+      "thumbnail": "https://static.poly.pizza/8fbe76c6-762c-4ed4-919a-308ab83f96d3.webp",
+      "download_url": "https://static.poly.pizza/8fbe76c6-762c-4ed4-919a-308ab83f96d3.glb"
     }
   ]
 }
